@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JethroTiago
 - 👀 I’m interested in software development and new technologies
-- 🌱 I’m currently learning HTML, JS and CSS
+- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me: email: jethrotiago@hotmail.com
 
