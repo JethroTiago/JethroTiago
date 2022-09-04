@@ -1,10 +1,12 @@
 ### Hello there 👋
 
-- 👋 Hi, I’m @JethroTiago
-- 👀 I’m interested in software development and new technologies
-- 🌱 I’m currently improving my knowledge in HTML, CSS and JAVASCRIPT
-- 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me: email: jethrotiago@hotmail.com
+- 👽 Hi, I’m @JethroTiago;
+- 👀 I’m interested in software development and new technologies;
+- 🚀 I’m currently improving my knowledge in HTML, CSS and JAVASCRIPT;
+- 👨🏻‍💻 I’m looking to collaborate in front-end projects;
+- 💻 I'm currently learning React;
+- 🎮 I also love games, movies and series...
+- 📧 How to reach me: email: jethrotiago@hotmail.com
 
 ### Tools and Technologies:
 
