@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 👽 Hi, I’m @JethroTiago;
-- 👀 I’m interested in software development and new technologies;
+- 👀 I’m interested in web/software development and new technologies;
 - 🚀 I’m currently improving my knowledge in HTML, CSS and JAVASCRIPT;
 - 👨🏻‍💻 I’m looking to collaborate in front-end projects;
 - 💻 I'm currently learning React;
