@@ -16,6 +16,8 @@
 ### Learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JethroTiago)](https://github.com/anuraghazra/github-readme-stats)
           
 ### You can also find me around here:
 
