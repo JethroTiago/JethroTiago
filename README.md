@@ -1,11 +1,10 @@
 ### Hello there 👋
 
-- 👽 Hi, I’m @JethroTiago;
-- 👀 I’m interested in web/software development and new technologies;
-- 🚀 I’m currently improving my knowledge in HTML, CSS and JAVASCRIPT;
+- 👽 Hi, I’m @JethroTiago, a Front-End developer;
+- 👀 I’m interested in web/software development and all technologies;
 - 👨🏻‍💻 I’m looking to collaborate in Front-End projects;
 - 💻 I'm currently learning React;
-- 🎮 I also love games, anime, movies and series...
+- 🎮 And I also love games, anime, movies and series...
 - 📧 How to reach me? You can send an email to: jethrotiago@hotmail.com
 
 ### Tech skills and abilities:
