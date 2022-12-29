@@ -17,7 +17,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JethroTiago)](https://github.com/anuraghazra/github-readme-stats)<br>
-<img height="180 cm" src="https://github-readme-streak-stats.herokuapp.com/?user=JethroTiago&stroke=f8d847&background=141321&ring=fe428e&fire=fe428e&currStreakNum=a9fef7&currStreakLabel=fe428e&sideNums=a9fef7&sideLabels=fe428e&dates=a9fef7&hide_border=true&date_format=j/n/Y"/>
+<img height="195 cm" src="https://github-readme-streak-stats.herokuapp.com/?user=JethroTiago&stroke=f8d847&background=141321&ring=FFD700&fire=FFD700&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=FFD700&sideLabels=FFD700&dates=a9fef7&hide_border=true&date_format=j/n/Y"/>
 </div>
           
 ### You can also find me around here:
