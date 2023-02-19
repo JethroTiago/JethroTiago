@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there!+%F0%9F%91%8B+I'm+Jethro+Tiago!;I'm+a+FRONT-END+Developer!)](https://git.io/typing-svg)
 
-- 👽 I’m interested in web/software development and all technologies;
-- 👨🏻‍💻 I’m looking to collaborate in Front-End projects;
+- 👽 I'm interested in web/software development and all kinds of technologies;
+- 👨🏻‍💻 I'm looking to collaborate in Front-End projects;
 - 💻 I'm currently learning React and NextJs;
 - 🎮 And I also love games, anime, movies and series...
 - 📧 How to reach me? You can send an email to: jethrotiago@hotmail.com
