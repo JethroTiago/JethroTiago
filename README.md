@@ -2,7 +2,7 @@
 
 - 👽 I'm interested in web/software development and all kinds of technologies;
 - 👨🏻‍💻 I'm looking to collaborate in Front-End projects;
-- 💻 I'm currently learning React and NextJs;
+- 💻 I'm currently improving myself in React and NextJs;
 - 🎮 And I also love games, anime, movies and series...
 - 📧 How to reach me? You can send an email to: jethrotiago@hotmail.com
 
