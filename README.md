@@ -3,7 +3,7 @@
 - 👽 I'm interested in web/software development and all kinds of technologies;
 - 👨🏻‍💻 I'm looking to collaborate in Front-End projects;
 - 💻 I'm currently improving myself in Python and MySQL;
-- 🎮 And I also love videogames, anime, movies and series...
+- 🎮 And I also love games, anime, movies and series...
 - 📧 How to reach me? You can send an email to: jethrotiago@hotmail.com
 
 ### Tech skills and abilities:
